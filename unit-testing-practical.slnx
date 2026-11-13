@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EventRegistration/EventRegistration.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/EventRegistration.MSTestTests/EventRegistration.MSTestTests.csproj" />
+    <Project Path="tests/EventRegistration.NUnitTests/EventRegistration.NUnitTests.csproj" />
+    <Project Path="tests/EventRegistration.XunitTests/EventRegistration.XunitTests.csproj" />
+  </Folder>
+</Solution>
